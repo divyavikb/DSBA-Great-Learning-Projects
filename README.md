@@ -19,8 +19,8 @@ Each project folder includes:
 7. **[SQL](./project-07-sql/README.md)** — Database analytics using SQL: joins, aggregations, and subqueries.
 8. **[Time Series Analysis](./project-08-time-series-analysis/README.md)** — Forecasting trends and seasonality using ARIMA, SARIMA, and Prophet models.
 9. **[Tableau Visualization](./project-09-tableau-visualization/README.md)** — Interactive dashboards and data storytelling using Tableau.
-10. **[MRA (Market Retail Analytics)](./project-10-market-retail-analytics/README.md)** — Multiple Linear Regression with several predictors, feature importance, and evaluation.
-11. **[FRA (Financial Risk Analytics)](./project-11-fra-financial-retail-analytics/README.md)** — Factor Regression Analysis for dimensionality reduction and financial modeling.
+10. **[MRA (Market Retail Analytics)](./project-10-market-retail-analytics/README.md)** — Market Retail Analytics
+11. **[FRA (Financial Risk Analytics)](./project-11-fra-financial-retail-analytics/README.md)** — Financial Risk Analytics 
 12. **[Capstone: House Price Prediction](./project-12-capstone-house-price-prediction/README.md)** — End-to-end project predicting house prices: preprocessing, EDA, feature engineering, ML modeling.
 
 
