@@ -18,7 +18,6 @@
 - Clean & merge travel + survey data, handle missing values.
 - Feature engineering: delay flags, aggregated survey scores, interaction terms.
 - Models: Logistic Regression baseline → LightGBM/XGBoost for top performance.
-- Explainability: feature importance and SHAP to surface drivers of satisfaction.
 
 **Outcome**
 - Reproducible pipeline for data → features → model → submission, accompanied by EDA and model explainability artifacts.
