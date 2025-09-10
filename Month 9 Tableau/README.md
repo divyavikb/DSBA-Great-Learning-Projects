@@ -4,8 +4,8 @@
 Interactive dashboards and data storytelling using Tableau.
 
 ## 📂 Project Structure
-- `project-09-tableau-visualization-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
+- `Car_Insurance_DVT.twbx` : Tableau Report Link.
+- `Link+to+Tableau+Project.pdf` : Detailed Insights about the Visualization.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
