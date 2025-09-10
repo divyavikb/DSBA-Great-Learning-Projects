@@ -5,7 +5,6 @@ Introduction to Python: data cleaning, control structures, functions, and explor
 
 ## 📂 Project Structure
 - `project-01-python-fundamentals-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
