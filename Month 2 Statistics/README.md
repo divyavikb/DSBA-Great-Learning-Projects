@@ -4,8 +4,8 @@
 Probability, descriptive statistics, and hypothesis testing using Python.
 
 ## 📂 Project Structure
-- `project-02-statistics-1-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
+- `Statistics.ipynb` : Jupyter notebook with full analysis and code.
+- `Divya_vikram_05-Mar-2023.docx.pdf` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
