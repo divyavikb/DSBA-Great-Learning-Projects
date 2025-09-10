@@ -3,7 +3,7 @@
 This repository contains 12 projects completed as part of the **Data Science & Business Analytics (DSBA) program** at Great Learning.  
 Each project folder includes:
 - Jupyter Notebook (`.ipynb`)
-- Project Report (`.pdf`)
+- Project Report (`.pdf` and '.docx')
 - Dataset (`/data`)
 - Individual README with details
 
@@ -22,6 +22,10 @@ Each project folder includes:
 10. **[MRA (Market Retail Analytics)](./project-10-market-retail-analytics/README.md)** — Market Retail Analytics
 11. **[FRA (Financial Risk Analytics)](./project-11-fra-financial-retail-analytics/README.md)** — Financial Risk Analytics 
 12. **[Capstone: House Price Prediction](./project-12-capstone-house-price-prediction/README.md)** — End-to-end project predicting house prices: preprocessing, EDA, feature engineering, ML modeling.
+13. **[Hackathon: Shinkansen Travel Experience](./project-12-capstone-house-price-prediction/README.md)** — End-to-end project predicting whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train.
+
+.
+
 
 
 ---
