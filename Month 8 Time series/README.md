@@ -11,7 +11,7 @@ Forecasting trends and seasonality using ARIMA, SARIMA, and Prophet models.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn,statsmodels)
 - Statistical techniques and data analysis methods
 - Data visualization and business interpretation
 
