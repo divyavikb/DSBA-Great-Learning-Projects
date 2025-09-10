@@ -4,8 +4,9 @@
 End-to-end project predicting house prices: preprocessing, EDA, feature engineering, ML modeling.
 
 ## 📂 Project Structure
-- `project-12-capstone-house-price-prediction-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
+- `Capstone+Project+House+price+prediction.ipynb` : Jupyter notebook with full analysis and code.
+- `Capstone+Project+House+Price+Prediction.pdf` : Detailed report with explanations and results.
+- `Presentation+on+Capstone+Project.pptx` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
