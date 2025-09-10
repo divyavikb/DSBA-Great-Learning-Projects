@@ -9,10 +9,7 @@ Database analytics using SQL: joins, aggregations, and subqueries.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
-- Statistical techniques and data analysis methods
-- Data visualization and business interpretation
-
+- SQL
 ## ✅ Results & Insights
 - Clear problem statement addressed with data-driven approach
 - Key findings and metrics documented in the project report
