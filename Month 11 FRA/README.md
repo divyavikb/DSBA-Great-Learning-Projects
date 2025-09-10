@@ -4,8 +4,10 @@
 Factor Regression Analysis for dimensionality reduction and financial modeling.
 
 ## 📂 Project Structure
-- `project-11-fra-factor-regression-analysis-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
+- `FRA+Milestone+1.ipynb` : Jupyter notebook with full analysis and code.
+- `FRA+Milestone+2.ipynb` : Jupyter notebook with full analysis and code.
+- `Financial Risk Analysis 1.pdf` : Detailed report with explanations and results.
+- `Financial Risk Analysis 2.pdf` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
