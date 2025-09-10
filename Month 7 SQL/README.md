@@ -4,8 +4,8 @@
 Database analytics using SQL: joins, aggregations, and subqueries.
 
 ## 📂 Project Structure
-- `project-07-sql-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
+- `submission_myname.sql` : SQl Queries.
+- `SQL project_ 7_Divya_Vikram.pdf` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
