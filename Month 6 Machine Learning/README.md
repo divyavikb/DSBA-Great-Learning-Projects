@@ -5,7 +5,7 @@ Supervised and unsupervised ML models: regression, classification, clustering, a
 
 ## 📂 Project Structure
 - `Ensemble Models.ipynb` : Jupyter notebook with full analysis and code.
-- 'NLP.ipynb': Jupyter notebook with full analysis and code
+- `NLP.ipynb` : Jupyter notebook with full analysis and code.
 - `Businees_Report_ML_Divya_Vikram_02-Jul-2023` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
