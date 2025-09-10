@@ -4,8 +4,8 @@
 Data preprocessing, feature extraction, and pattern discovery using mining techniques.
 
 ## 📂 Project Structure
-- `project-04-data-mining-project.ipynb` : Jupyter notebook with full analysis and code.
-- `project-report.pdf` : Detailed report with explanations and results.
+- `Unsupervised Learning` : Jupyter notebook with full analysis and code.
+- `Businees_Report_DM_Divya_Vikram_30-Apr-2023` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
 ## 🚀 Key Skills & Tools
