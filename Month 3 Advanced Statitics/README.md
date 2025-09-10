@@ -4,7 +4,7 @@
 ANOVA, Chi-square tests, and advanced hypothesis testing for decision-making.
 
 ## 📂 Project Structure
-- `project-03-statistics-2-project.ipynb` : Jupyter notebook with full analysis and code.
+- `Advanced Statistics.ipynb` : Jupyter notebook with full analysis and code.
 - `project-report.pdf` : Detailed report with explanations and results.
 - `data/` : Folder containing raw dataset(s).
 
