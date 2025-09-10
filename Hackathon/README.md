@@ -17,7 +17,7 @@
 **Approach highlights**
 - Clean & merge travel + survey data, handle missing values.
 - Feature engineering: delay flags, aggregated survey scores, interaction terms.
-- Models: Logistic Regression baseline → LightGBM/XGBoost for top performance.
+- Models: Logistic Regression baseline → Bagging and Boosting Algorithms for top performance.
 
 **Outcome**
 - Reproducible pipeline for data → features → model → submission, accompanied by EDA and model explainability artifacts.
